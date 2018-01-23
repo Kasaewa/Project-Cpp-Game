@@ -1,0 +1,26 @@
+﻿  main.cpp
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\map.h(32): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\mission.h(22): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0438" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(49): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(62): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(67): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(68): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(85): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(86): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(96): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(104): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(142): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(169): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(171): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(183): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(198): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(199): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(208): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(252): warning C4244: "inicjowanie": konwersja z "sf::Int64" do "float", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(281): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(288): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(299): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(306): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(309): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\kasaewa\desktop\projekt c++\sfml\sfml\main.cpp(312): warning C4305: "=": obcięcie z "double" do "float"
+  SFML.vcxproj -> C:\Users\Kasaewa\Desktop\Projekt C++\SFML\x64\Debug\SFML.exe
